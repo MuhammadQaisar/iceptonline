@@ -1,0 +1,37 @@
+Laravel+GitHub short tutorial
+----------------------------------------
+
+
+GitHub
+------
+
+Step 1:
+
+make your directory/repo to be sync-able with
+
+>> git init
+
+step 2:
+
+pull all files from GitHub repo
+
+add remote repo path 
+
+>> git remote add origin https://github.com/MuhammadQaisar/iceptonline.git
+
+-pull files
+
+>> git pull origin master
+
+step 3:
+
+track all local files 
+
+>> git add .
+
+
+step 4:
+
+commit all files to staging level 
+
+>> git commit -m 
